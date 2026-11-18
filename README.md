@@ -1,6 +1,6 @@
 # WorkStreamRenderer
 
-The local renderer behind the [WorkStreamSkills](../..) pack: it turns a storyboard JSON into clips, builds title
+The local renderer behind the [WorkStreamSkills](https://github.com/void-universe/WorkStreamSkills) pack: it turns a storyboard JSON into clips, builds title
 cards from HTML, adds voice-over, and cuts the whole thing with subtitles.
 
 Nothing here is machine-bound. Every path, endpoint and model filename comes from an environment variable, and no

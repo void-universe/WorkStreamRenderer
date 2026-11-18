@@ -1,6 +1,6 @@
 # WorkStreamRenderer（中文）
 
-[WorkStreamSkills](../..) 技能包背后的本机渲染器：把分镜 JSON 变成镜头、把 HTML 变成片头卡、配旁白、烧字幕、拼成片。
+[WorkStreamSkills](https://github.com/void-universe/WorkStreamSkills) 技能包背后的本机渲染器：把分镜 JSON 变成镜头、把 HTML 变成片头卡、配旁白、烧字幕、拼成片。
 
 这个仓库里没有任何与机器绑定的东西：路径、端点、权重文件名全部来自环境变量，仓库里不存任何凭据。
 
