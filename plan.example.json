@@ -1,0 +1,16 @@
+{
+  "out": "final.mp4",
+  "width": 768,
+  "height": 432,
+  "fps": 24,
+  "clips": ["clips/01_hook.mp4", "clips/02_problem.mp4", "clips/03_card.mp4"],
+  "voices": {
+    "A": "zh-CN-YunxiNeural",
+    "B": "zh-CN-YunjianNeural",
+    "N": "zh-CN-YunjianNeural"
+  },
+  "lines": [
+    { "at": 0.25, "who": "N", "text": "这里写第一句画外音。" },
+    { "at": 3.10, "who": "A", "text": "这里写主动说话的那一句。" }
+  ]
+}
